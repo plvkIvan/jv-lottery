@@ -6,6 +6,6 @@ public class Ball {
 
     @Override
     public String toString() {
-        return null;
+        return "Color: " + color + ", number: " + number;
     }
 }
